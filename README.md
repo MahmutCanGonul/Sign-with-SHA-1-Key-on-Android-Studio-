@@ -15,7 +15,7 @@ STEPS:
 
 =>Save that this file on the your project files and file name like debug.keystore
 
-=>After that go back the your Android studio terminal area, write this code
+=>After that go to C:\Program Files\Android\Android Studio\jre\bin, open the terminal and  write this code
 
 
                   .\keytool -list -v -keystore YOUR_ANDROID_FILE_PATH\debug.keystore -alias androiddebugkey -storepass android -keypass android
